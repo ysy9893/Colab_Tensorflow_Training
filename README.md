@@ -5,3 +5,8 @@ The original tutorial (https://github.com/EdjeElectronics/TensorFlow-Object-Dete
 
 You can download train_tf.ipynb from this repository and just open it using Colab Notebooks ^^
 
+I had implemented transfer learning on pretrined mobilenet_ssd_v2 model using my own dataset. 
+
+There are 3 classes (car, motorcycle, human) and 11220 trainable images. 
+
+The result of model testing on mp4 video:   

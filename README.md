@@ -10,3 +10,4 @@ I had implemented transfer learning on pretrined mobilenet_ssd_v2 model using my
 There are 3 classes (car, motorcycle, human) and 11220 trainable images. 
 
 The result of model testing on mp4 video:   
+![sample](human_result.gif)
